@@ -1,16 +1,3 @@
-# gameclock
-
-gameclock
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1637348457](https://user-images.githubusercontent.com/13693800/142677187-029fbcab-a28f-4d76-a0e3-62eaedbda9a3.png)
+![Screenshot_1637348460](https://user-images.githubusercontent.com/13693800/142677197-df292ef1-f095-4e71-97cf-44003de42477.png)
+![Screenshot_1637348465](https://user-images.githubusercontent.com/13693800/142677204-d7b7e97e-f6db-434d-ac8d-10175c4945e7.png)
